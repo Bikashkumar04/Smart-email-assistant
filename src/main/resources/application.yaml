@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: smart-email-assistant
+
+gemini:
+  api:
+    key = ${GEMINI_API_KEY}:
